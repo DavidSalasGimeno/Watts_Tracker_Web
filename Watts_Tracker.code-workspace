@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Watts_Tracker_Web",
+			"path": "."
+		},
+		{
+			"name": "Watts_Tracker",
+			"path": "..\\Watts_Tracker"
+		},
+		{
+			"name": "Proyecto_web",
+			"path": "..\\..\\Django\\Proyecto_web"
+		}
+	],
+	"settings": {}
+}
